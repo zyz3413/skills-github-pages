@@ -1,0 +1,1 @@
+We say that a random variable has an exponential distribution with parameter $\lambda$ if it has density function $f(x) = \lambda e^{-\lambda x}$.
