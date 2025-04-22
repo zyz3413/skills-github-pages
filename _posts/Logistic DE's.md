@@ -19,13 +19,21 @@ $A = \dfrac{1}{3000}$ and $B=\dfrac{1}{3000}$.
 
 So we get
 
-$\dfrac{1}{3000}\left( \dfrac{1}{I} + \dfrac{1}{3000-I} \right) = \dfrac{3}{10000} dt$
+$\dfrac{1}{3000}\left( \dfrac{1}{I} + \dfrac{1}{3000-I} \right) dI = \dfrac{3}{10000} dt$
+
+Integrating, we get
 
 $\ln(I) - \ln(3000-I) = \dfrac{9}{10}t + C$
 
+Simplifying, we get
+
 $\ln \left( \dfrac{I}{3000-I} \right) = \dfrac{9}{10} t + C$
 
+Exponentiating, we get
+
 $\dfrac{I}{3000-I}  = C_2 e^{9t/10}$
+
+We multiply both sides by the denominator and then solve for $I$. This gives
 
 $I = \dfrac{3000 C_2 e^{9t/10}}{1 + C_2 e^{9t/10}} = \dfrac{3000}{1 + D e^{-9t/10}}$.
 
