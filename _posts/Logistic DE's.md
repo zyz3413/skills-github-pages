@@ -41,6 +41,6 @@ Now we substitute the initial value $I(0) = 30$ to get
 
 $30 = \dfrac{3000}{D+1}$,
 
-so that $D = 99$. Thus the solution is
+so that $D = 99$. Thus the solution to the initial value problem is
 
 $I = \dfrac{3000}{I + 99e^{-9t/10}}$.
