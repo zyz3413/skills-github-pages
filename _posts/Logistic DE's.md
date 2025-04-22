@@ -5,7 +5,7 @@ $\dfrac{dI}{dt} = 0.0003 I(3000-I)$, $I(0)=30$.
 
 This can be solved using separation of variables.
 
-$\dfrac{dI}{I(3000-I)} = 3/10000 dt$
+$\dfrac{dI}{I(3000-I)} = \dfrac{3}{10000} dt$
 
 We can use partial fractions:
 
@@ -21,7 +21,7 @@ So we get
 
 $\dfrac{1}{3000}\left( \dfrac{1}{I} + \dfrac{1}{3000-I} \right) = \dfrac{3}{10000} dt$
 
-$\ln I - \ln(3000-I) = \dfrac{9}{10}t + C$
+$\ln(I) - \ln(3000-I) = \dfrac{9}{10}t + C$
 
 $\ln \left( \dfrac{I}{3000-I} \right) = \dfrac{9}{10} t + C$
 
