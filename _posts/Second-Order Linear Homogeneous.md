@@ -15,7 +15,7 @@ We will discuss how to solve this equation now and save the general case for lat
 
 To explain the procedure for solving the differential equation $ay'' + by' + cy = 0$, we need a definition.
 
-Definition: Two functions $y_1(t)$ and $y_2(t)$ are said to be linearly independent on an interval $I$ if neither of them is a constant multiple of the other. Otherwise, they are linearly dependent.
+Definition: Two functions $y_1(t)$ and $y_2(t)$ are said to be **linearly independent** on an interval $I$ if neither of them is a constant multiple of the other. Otherwise, they are linearly dependent.
 
 Example: $e^{2t}$ and $e^{3t}$ are linearly independent.
 
@@ -25,7 +25,7 @@ Example: $2e^t$ and $3t^t$ are linearly dependent because $3t^t = \frac{3}{2} \c
 
 Having defined linear independence, we can state the following theorem:
 
-Theorem: If $y_1$ and $y_2$ are linearly independent solutions to $ay'' + by' + cy = 0$, then the general solution to $ay'' + by' + cy = 0$ is
+**Theorem**: If $y_1$ and $y_2$ are linearly independent solutions to $ay'' + by' + cy = 0$, then the general solution to $ay'' + by' + cy = 0$ is
 
 
 $$
@@ -95,7 +95,7 @@ $3C_1 + 3C_2 = 15$
 
 Adding this equation to the second equation gives $-3 C_2 = -6$, so $C_2=2$. Plugging this back into the first equation gives $C_1 = 3$. So the solution we are looking for is $y(t) = 3 e^{-3t} + 2e^{-6t}$.
 
-**Example** (a) Find the general solution to
+**Example**: (a) Find the general solution to
 
 $$y'' - 6y' + \frac{85}{4}y=0$$
 
@@ -126,7 +126,7 @@ Plugging in $C_1=-5$ into the second equation gives $C_2=-2$, so the solution is
 
 $$y(t) = -5 e^{3t} \cos \dfrac{7}{2} t - 2 e^{3t} \sin \dfrac{7}{2} t.$$
 
-**Example** (a) Find the general solution to $y''-6y'+9y=0$.
+**Example**: (a) Find the general solution to $y''-6y'+9y=0$.
 
 (b) Find the unique solution that satisfies $y(0)=2.5$ and $y'(0)=7$.
 
