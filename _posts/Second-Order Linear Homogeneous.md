@@ -17,7 +17,7 @@ To explain the procedure for solving the differential equation $ay'' + by' + cy 
 
 Definition: Two functions $y_1(t)$ and $y_2(t)$ are said to be linearly independent on an interval $I$ if neither of them is a constant multiple of the other. Otherwise, they are linearly dependent.
 
-Example: $e^{2t}$ and $e^{3t}$ are linearly independent.
+\textit{Example}: $e^{2t}$ and $e^{3t}$ are linearly independent.
 
 Example: $e^t$ and $t e^t$ are linearly independent.
 
