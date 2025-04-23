@@ -26,9 +26,10 @@ for any constants $C_1$ and $C_2$.
 The theorem says that to solve $(*)$, we jsut need to find two linearly independent solutions. How do we find these? This is the equation we will now answer.
 
 Starting from
-$$
-ay'' + by' + cy = 0,
-$$
+
+
+$$ay'' + by' + cy = 0,$$
+
 
 the first step is to write down what is called the auxiliary equation,
 $$
