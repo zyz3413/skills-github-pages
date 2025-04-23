@@ -125,3 +125,25 @@ $3C_1 + \dfrac{7}{2}C_2 = -22$
 Plugging in $C_1=-5$ into the second equation gives $C_2=-2$, so the solution is
 
 $$y(t) = -5 e^{3t} \cos \dfrac{7}{2} t - 2 e^{3t} \sin \dfrac{7}{2} t.$$
+
+**Example** (a) Find the general solution to $y''-6y'+9y=0$.
+
+(b) Find the unique solution that satisfies $y(0)=2.5$ and $y'(0)=7$.
+
+Part (a): The auxiliary equation is $r^2-6r+9=0$. This factors as $(r-3)^2=0$, so the only root is $r=3$, a repeated root. This is case 2. The general solution is
+
+$$y(t) = C_1 e^{3t} + C_2 t e^{3t}.$$
+
+Part (b): We have
+
+$$y'(t) = 3 C_1 e^{3t} + C_2[ 3 t e^{3t} + e^{3t}].$$
+
+Plugging in $t=0$, we get
+
+$y(0) = C_1$ and $y'(0) = 3 C_1 + C_2$. From the initial conditons, we see that we have to solve
+
+$C_1 = \frac{5}{2}$
+
+$3C_1 + C_2 = 7$
+
+We get $C_2 = 7 - 3 C_1 = 7 - 3(5/2) = -1/2$, so the solution is $y(t) = \dfrac{5}{2} e^{3t} - \dfrac{1}{2} te^{3t}$.
