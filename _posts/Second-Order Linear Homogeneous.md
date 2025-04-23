@@ -5,7 +5,7 @@ $$ay''(t) + by'(t) + cy(t) = f(t)$$
 
 
 for constants $a,b,$ and $c$, where $a \ne 0$. We are only concerned with the case where $a,b$, and $c$ are real numbers.
-When $f(t)$ is the constant function $0$, the equation is called a homogeneous differential equation:
+When $f(t)$ is the constant function $0$, the equation is called a **homogeneous** differential equation:
 
 
 $$ay'' + by' + cy = 0 $$
