@@ -108,3 +108,7 @@ $$r = \dfrac{6 \pm \sqrt{(-6)^2-4(1)(85/4)}}{2(1)} = \dfrac{6 \pm \sqrt{-49}}{2}
 This is case 3. We have $\alpha = 3$ and $\beta = \frac{7}{2}$, so the general solution is
 
 $$y(t) = C_1 e^{3t} \cos(\frac{7}{2}t) + C_2 e^{3t} \sin(\frac72 t).$$
+
+Part (b): Differentiating, we get
+
+$$y' = C_1[e^{3t}(-7/2 \sin(7t/2)) + 3e^{3t}\cos(7t/2)] + C_2 [e^{3t}(7/2 \cos(7t/2))+3e^{3t}\sin(7t/2)]$$
