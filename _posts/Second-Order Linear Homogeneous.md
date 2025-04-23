@@ -33,6 +33,7 @@ Starting from
 \[
 ay'' + by' + cy = 0,
 \]
+
 the first step is to write down what is called the auxiliary equation,
 \[
 ar^2 + br + c=0.
