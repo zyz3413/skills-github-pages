@@ -35,7 +35,7 @@ $$
 
 for any constants $C_1$ and $C_2$.
 
-Notice that in contrast to the case of first-order linear differential equations, there are two arbitrary constants. This has to do with the fact that the second derivative is involved. 
+Notice that in contrast to the case of first-order linear differential equations, there are two arbitrary constants. This has to do with the fact that the second derivative is involved. When we do examples of initial value problems later in this lesson, we will see that we need two initial conditions, because we need to get two equations to solve for the constants.
 
 The theorem says that to solve $ay'' + by' + cy = 0$, we just need to find two linearly independent solutions. How do we find these? This is the question we will now answer.
 
