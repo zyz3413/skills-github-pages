@@ -94,3 +94,17 @@ One way to solve for $C_1$ and $C_2$ is to multiply the first equation by $3$, g
 $3C_1 + 3C_2 = 15$
 
 Adding this equation to the second equation gives $-3 C_2 = -6$, so $C_2=2$. Plugging this back into the first equation gives $C_1 = 3$. So the solution we are looking for is $y(t) = 3 e^{-3t} + 2e^{-6t}$.
+
+**Example** (a) Find the general solution to
+
+$$y'' - 6y' + \frac{85}{4}y=0$$
+
+(b) Find the unique solution that satisfies $y(0)=-54 and $y'(0)=-21$.
+
+Part (a): The auxiliary equation is $r^2 - 6r + \frac{85}{4} =0$. By the quadratic formula, the roots are
+
+$$r = \dfrac{6 \pm \sqrt{(-6)^2-4(1)(85/4)}{2(1)} = \dfrac{6 \pm \sqrt{-49}}{2} = \dfrac{6 \pm 7i}{2} = \dfrac{6}{2} \pm \dfrac{7}{2}i = 3 \pm \dfrac{7}{2} i.$$
+
+This is case 3. We have $\alpha = 3$ and $\beta = \frac{7}{2}$, so the general solution is
+
+$$y(t) = C_1 e^{3t} \cos(\frac{7}{2}t) + C_2 e^{3t} \sin(\frac72 t).$$
