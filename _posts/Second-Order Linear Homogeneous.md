@@ -25,7 +25,7 @@ Example: $2e^t$ and $3t^t$ are linearly dependent because $3t^t = \frac{3}{2} \c
 
 Having defined linear independence, we can state the following theorem:
 
-Theorem: If $y_1$ and $y_2$ are linearly independent solutions to $(*)$, then the general solution to $(*)$ is
+Theorem: If $y_1$ and $y_2$ are linearly independent solutions to (*) , then the general solution to (*) is
 
 
 $$
