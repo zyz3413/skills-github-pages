@@ -55,7 +55,7 @@ Case 1: If we get $2$ distinct real roots $r_1$ and $r_2$ (distinct means that $
 
 Case 2: If we get a repeated root $r$, then $y_1 = e^{rt}$ and $y_2 = t e^{rt}$ are linearly independent solutions to $ay'' + by' + cy = 0$.
 
-(An example of a "repeated root" is when $r^2+6r+9=0$. Then $(r+3)(r+3)=0$, so $r=-3$ is a "repeated root.)
+(An example of a "repeated root" is when $r^2+6r+9=0$. Then $(r+3)(r+3)=0$, so $r+3$ appears twice in the factorization, so $r=-3$ is a "repeated" root.)
 
 Case 3: If we get two complex conjugate roots $\alpha \pm i \beta$ (meaning that one of the roots is $r_1 = \alpha + i \beta$ and the other root is $r_2 = \alpha - i \beta$), then $y_1 = e^{\alpha t} \cos(\beta t)$ and $y_2 = e^{\alpha t} \sin(\beta t)$ are two linearly independent solutions to $ay'' + by' + cy = 0$.
 
