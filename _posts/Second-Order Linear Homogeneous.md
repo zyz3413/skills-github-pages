@@ -8,12 +8,12 @@ for constants $a,b,$ and $c$, where $a \ne 0$. We are only concerned with the ca
 When $f(t)$ is the constant function $0$, the equation is called a homogeneous differential equation:
 
 
-$$ay'' + by' + cy = 0$$
+$$ay'' + by' + cy = 0 $$
 
 
 We will discuss how to solve this equation now and save the general case for later.
 
-To explain the procedure for solving the differential equation (*), we need a definition.
+To explain the procedure for solving the differential equation $ay'' + by' + cy = 0$, we need a definition.
 
 Definition: Two functions $y_1(t)$ and $y_2(t)$ are said to be linearly independent on an interval $I$ if neither of them is a constant multiple of the other. Otherwise, they are linearly dependent.
 
@@ -25,7 +25,7 @@ Example: $2e^t$ and $3t^t$ are linearly dependent because $3t^t = \frac{3}{2} \c
 
 Having defined linear independence, we can state the following theorem:
 
-Theorem: If $y_1$ and $y_2$ are linearly independent solutions to (*) , then the general solution to (*) is
+Theorem: If $y_1$ and $y_2$ are linearly independent solutions to $ay'' + by' + cy = 0$, then the general solution to $ay'' + by' + cy = 0$ is
 
 
 $$
@@ -35,7 +35,7 @@ $$
 
 for any constants $C_1$ and $C_2$.
 
-The theorem says that to solve $(*)$, we jsut need to find two linearly independent solutions. How do we find these? This is the equation we will now answer.
+The theorem says that to solve $ay'' + by' + cy = 0$, we just need to find two linearly independent solutions. How do we find these? This is the equation we will now answer.
 
 Starting from
 
@@ -51,9 +51,9 @@ $$ar^2 + br + c=0.$$
 
 The next step is to find the roots of the equation. There are three cases.
 
-Case 1: If we get $2$ distinct real roots $r_1$ and $r_2$ (distinct means that $r_1 \ne r_2$), then $y_1(t) = e^{r_1 t}$ and $y_2(t) = e^{r_2 t}$ are linearly independent solutions to $(*)$.
+Case 1: If we get $2$ distinct real roots $r_1$ and $r_2$ (distinct means that $r_1 \ne r_2$), then $y_1(t) = e^{r_1 t}$ and $y_2(t) = e^{r_2 t}$ are linearly independent solutions to $ay'' + by' + cy = 0$.
 
-Case 2: If we get a repeated root $r$, then $y_1 = e^{rt}$ and $y_2 = t e^{rt}$ are linearly independent solutions to $(*)$.
+Case 2: If we get a repeated root $r$, then $y_1 = e^{rt}$ and $y_2 = t e^{rt}$ are linearly independent solutions to $ay'' + by' + cy = 0$.
 
 Case 3: If we get two complex conjugate roots $\alpha \pm i \beta$ (meaning that one of the roots is $r_1 = \alpha + i \beta$ and the other root is $r_2 = \alpha - i \beta$), then $y_1 = e^{\alpha t} \cos(\beta t)$ and $y_2 = e^{\alpha t} \sin(\beta t)$ are two linearly independent solutions to $(*)$.
 
