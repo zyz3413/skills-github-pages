@@ -117,10 +117,10 @@ Plugging in $t=0$ gives $y(0)=C_1 e^0 \cos(0) + C_2 e^0 \sin(0) = C_1$ and $y'(0
 
 So we have to solve the system
 
-\begin{align*}
-C_1 &= -5 \\
-3C_1 + \dfrac{7}{2}C_2 &= -22
-\end{align*}
+
+C_1= -5 
+3C_1 + \dfrac{7}{2}C_2 = -22
+
 
 Plugging in $C_1=-5$ into the second equation gives $C_2=-2$, so the solution is
 
