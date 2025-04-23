@@ -112,3 +112,16 @@ $$y(t) = C_1 e^{3t} \cos(\frac{7}{2}t) + C_2 e^{3t} \sin(\frac72 t).$$
 Part (b): Differentiating, we get
 
 $$y' = C_1[e^{3t}(-\frac{7}{2} \sin(\frac{7}{2}t)) + 3e^{3t}\cos(\frac{7}{2}t)] + C_2 [e^{3t}(\frac{7}{2} \cos(\frac{7}{2}t))+3e^{3t}\sin(\frac{7}{2}t)]$$
+
+Plugging in $t=0$ gives $y(0)=C_1 e^0 \cos(0) + C_2 e^0 \sin(0) = C_1$ and $y'(0) = C_1[1(0)+3(1)] + C_2[1(\frac{7}{2})+3(1)(0)] = 3C_1 + \frac{7}{2} C_2$.
+
+So we have to solve the system
+
+\begin{align*}
+C_1 &= -5 \\
+3C_1 + \dfrac{7}{2}C_2 &= -22
+\end{align*}
+
+Plugging in $C_1=-5$ into the second equation gives $C_2=-2$, so the solution is
+
+$$y(t) = -5 e^{3t} \cos \dfrac{7}{2} t - 2 e^{3t} \sin \dfrac{7}{2} t.$$
