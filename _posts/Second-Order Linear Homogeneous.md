@@ -103,7 +103,7 @@ $$y'' - 6y' + \frac{85}{4}y=0$$
 
 Part (a): The auxiliary equation is $r^2 - 6r + \frac{85}{4} =0$. By the quadratic formula, the roots are
 
-$$r = \dfrac{6 \pm \sqrt{(-6)^2-4(1)(85/4)}{2(1)} = \dfrac{6 \pm \sqrt{-49}}{2} = \dfrac{6 \pm 7i}{2} = \dfrac{6}{2} \pm \dfrac{7}{2}i = 3 \pm \dfrac{7}{2} i.$$
+$$r = \dfrac{6 \pm \sqrt{(-6)^2-4(1)(85/4)}}{2(1)} = \dfrac{6 \pm \sqrt{-49}}{2} = \dfrac{6 \pm 7i}{2} = \dfrac{6}{2} \pm \dfrac{7}{2}i = 3 \pm \dfrac{7}{2} i.$$
 
 This is case 3. We have $\alpha = 3$ and $\beta = \frac{7}{2}$, so the general solution is
 
