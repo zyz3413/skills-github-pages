@@ -35,6 +35,8 @@ $$
 
 for any constants $C_1$ and $C_2$.
 
+Notice that in contrast to the case of first-order linear differential equations, there are two arbitrary constants. This has to do with the fact that the second derivative is involved. 
+
 The theorem says that to solve $ay'' + by' + cy = 0$, we just need to find two linearly independent solutions. How do we find these? This is the question we will now answer.
 
 Starting from
