@@ -35,7 +35,7 @@ $$
 
 for any constants $C_1$ and $C_2$.
 
-The theorem says that to solve $ay'' + by' + cy = 0$, we just need to find two linearly independent solutions. How do we find these? This is the equation we will now answer.
+The theorem says that to solve $ay'' + by' + cy = 0$, we just need to find two linearly independent solutions. How do we find these? This is the question we will now answer.
 
 Starting from
 
