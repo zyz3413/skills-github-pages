@@ -1,12 +1,8 @@
 The general linear second-order constant coefficient differential equation is
-$$
-ay''(t) + by'(t) + cy(t) = f(t)
-$$
+$$ay''(t) + by'(t) + cy(t) = f(t)$$
 for constants $a,b,$ and $c$, where $a \ne 0$. We are only concerned with the case where $a,b$, and $c$ are real numbers.
 When $f(t)$ is the constant function $0$, the equation is called a homogeneous differential equation:
-$$
-ay'' + by' + cy = 0 (*)
-$$
+$$ay'' + by' + cy = 0$$
 We will discuss how to solve this equation now and save the general case for later.
 
 To explain the procedure for solving the differential equation (*), we need a definition.
