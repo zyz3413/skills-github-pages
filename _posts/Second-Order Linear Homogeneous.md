@@ -1,8 +1,16 @@
 The general linear second-order constant coefficient differential equation is
+
+
 $$ay''(t) + by'(t) + cy(t) = f(t)$$
+
+
 for constants $a,b,$ and $c$, where $a \ne 0$. We are only concerned with the case where $a,b$, and $c$ are real numbers.
 When $f(t)$ is the constant function $0$, the equation is called a homogeneous differential equation:
+
+
 $$ay'' + by' + cy = 0$$
+
+
 We will discuss how to solve this equation now and save the general case for later.
 
 To explain the procedure for solving the differential equation (*), we need a definition.
@@ -18,9 +26,13 @@ Example: $2e^t$ and $3t^t$ are linearly dependent because $3t^t = \frac{3}{2} \c
 Having defined linear independence, we can state the following theorem:
 
 Theorem: If $y_1$ and $y_2$ are linearly independent solutions to $(*)$, then the general solution to $(*)$ is
+
+
 $$
 y = C_1 y_1 + C_2 y_2
 $$
+
+
 for any constants $C_1$ and $C_2$.
 
 The theorem says that to solve $(*)$, we jsut need to find two linearly independent solutions. How do we find these? This is the equation we will now answer.
@@ -32,9 +44,11 @@ $$ay'' + by' + cy = 0,$$
 
 
 the first step is to write down what is called the auxiliary equation,
-$$
-ar^2 + br + c=0.
-$$
+
+
+$$ar^2 + br + c=0.$$
+
+
 The next step is to find the roots of the equation. There are three cases.
 
 Case 1: If we get $2$ distinct real roots $r_1$ and $r_2$ (distinct means that $r_1 \ne r_2$), then $y_1(t) = e^{r_1 t}$ and $y_2(t) = e^{r_2 t}$ are linearly independent solutions to $(*)$.
