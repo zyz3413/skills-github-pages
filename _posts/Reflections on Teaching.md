@@ -18,4 +18,6 @@ Also, it is not possible to rush learning math. Students have to learn however f
 
 Many students have no idea how to study for a test. This isn't good because in many classes, a big portion of the grade is the test score.
 
-Often there are resources on campus for students to get help, but they don't use them. My glasses aren't going to do anything for me if I don't put them on. In the same way, the resources provided by the college or university won't do anything for you unless you use them.
+Often there are resources on campus for students to get help, but they don't use them. My glasses aren't going to do anything for me if I don't put them on. In the same way, the resources provided by the college or university won't do anything for you unless you use them. Students need to know (1) what they are; (2) why they are useful; and (3) have barriers reduced for them to go. For barriers, students may feel that office hours aren't worth it, or that they are only for really struggling students and they do not want to see themselves as struggling. Also, students may be less likely to go if they don't see other students going.
+
+Students also need to be aware of all of the other resources available on campus.
