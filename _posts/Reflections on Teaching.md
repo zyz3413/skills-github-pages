@@ -12,4 +12,10 @@ Often, students are reluctant to bring up issues they have because they are emba
 
 3) You're a TA for differential equations and the first exam has been handed back. After class a student goes up to you and asks to speak with you. They mention that they did poorly on the test but they tried. They say, "I didn't do well, but I understand the concepts." They ask if they should drop the class.
 
+Students should understand that they have to do the learning themselves. The instructor, books, videos, etc. can help them learn but they ultimately have to do it. The instructor should provide a regimen (like a workout routine) for how to get students to their goal. But just like a personal trainer can't lift the weights for the student, in the same way, the teacher can't give the student well-formed knowledge. The student has to take what is presented and form it and make sense of it. There isn't any shortcut to learning math.
 
+Also, it is not possible to rush learning math. Students have to learn however fast they learn it. They can't force themselves to learn a topic in x minutes. They need to plan for being stuck, as well as the time it takes to get un-stuck.
+
+Many students have no idea how to study for a test. This isn't good because in many classes, a big portion of the grade is the test score.
+
+Often there are resources on campus for students to get help, but they don't use them. My glasses aren't going to do anything for me if I don't put them on. In the same way, the resources provided by the college or university won't do anything for you unless you use them.
