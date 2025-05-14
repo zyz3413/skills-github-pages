@@ -18,6 +18,29 @@ Also, it is not possible to rush learning math. Students have to learn however f
 
 Many students have no idea how to study for a test. This isn't good because in many classes, a big portion of the grade is the test score.
 
-Often there are resources on campus for students to get help, but they don't use them. My glasses aren't going to do anything for me if I don't put them on. In the same way, the resources provided by the college or university won't do anything for you unless you use them. Students need to know (1) what they are; (2) why they are useful; and (3) have barriers reduced for them to go. For barriers, students may feel that office hours aren't worth it, or that they are only for really struggling students and they do not want to see themselves as struggling. Also, students may be less likely to go if they don't see other students going.
+Often there are resources on campus for students to get help, but they don't use them. My glasses aren't going to do anything for me if I don't put them on. In the same way, the resources provided by the college or university won't do anything for you unless you use them. Students need to know (1) what they are; (2) why they are useful; and (3) have barriers reduced for them to go. You should provide wise advice to common student feelings. Keep in mind that these feelings are just that -- they're either not based on actual facts, or are based on flimsy evidence.
 
-Students also need to be aware of all of the other resources available on campus.
+Student feeling: "Office hours aren't worth going."
+
+Response: "If you haven't been there before, going to office hours might seem like a hassle. But once you start going, you'll probably think it's no big deal. I've seen students do really well as a result of going to office hours."
+
+Student feeling: "I don't want to be alone."
+
+Response: This is where you really encourage students to go, so that the student is in fact not alone. One response would then say, "That's not true -- there will be other students there." If not, you might need to adjust how you structure office hours. Maybe it could be turned into a session where you go over homework questions or do an exam prep session. 
+
+Student feeling: "I can't make it to office hours. I have to do something else."
+
+Response: If you have online office hours, encourage that. Otherwise, offer alternatives. "Another option is to ask questions after class. Or you can go to the math learning center. You can also e-mail me. Either way, I really think that asking questions directly is the way to go." 
+
+Students may feel that office hours aren't worth it, or that they are only for really struggling students and they do not want to see themselves as struggling. Also, students may be less likely to go if they don't see other students going.
+
+Student feeling: "I don't want to feel stupid by asking stupid questions."
+
+Response: "I don't want you to worry about feeling stupid. You can ask anything that's relevant to the class. A lot of the top-scoring students go to office hours, too."
+
+Students complain a lot. I think students should feel listened to, not silenced. But ultimately you have to be a bit firm on your decisions and you might need to justify things. It might help to give justification before you get complaints. For example, a student might complain that a test is too long. Before that, you could say to the class that you expect there to be x number of questions, and that you expect that the test will not be too long. Clarify if you expect the average student to be able to answer all questions in time, or just the majority of them (e.g. "You will have enough time to answer all the questions, but you might not have been able to come up with the correct answer in the time you have. Just pace yourself and put down the best answer you can provide. Keep in mind that you don't have to answer all questions correctly in order to do well.")
+
+One way to prevent students not wanting to do something is to explain why you're doing what you are doing. As a TA, this could be, "We're mostly going to be working on worksheets. An important component of learning is collaborative learning, where you work with other students. A lot of students find it helpful to be able to discuss and work with other students, and this is an opportunity to do that. So it's an important component of the class." Or if it's an assignment that requires programming that students are unfamiliar with: "Theoretical knowledge is valuable, but in this class, one major course objective is to learn how the theory plays out in practice. We're using a program that is regularly used in statistics. You might not be used to it, so please ask questions. In my experience, there is an initial learning curve, but students get adapted to using it pretty quickly."
+
+
+
