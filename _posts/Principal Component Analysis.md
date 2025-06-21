@@ -45,18 +45,13 @@ Notice that the sample covariance of $\u$ and $\u$ is just the sample variance o
 
 We define the \textbf{sample covariance matrix} to be 
 $S = [s_{ij}]=[\text{Cov}(\textbf u_i,\textbf u_j)].$
-Then
-\[
-S = \dfrac{1}{N-1}BB^T.
-\]
+Then $S = \dfrac{1}{N-1}BB^T.$
 Notice that $S$ is symmetric in general. In the example above,
-\[
-S = \begin{bmatrix}
+$S = \begin{bmatrix}
     86 & -27 \\
     -27 & 16
-\end{bmatrix}
-\]
-By definition, the sample variance of $c\textbf u + d\textbf v$ is $\dfrac{1}{N-1}(c\textbf u + d\textbf v) \cdot (c\textbf u + d \textbf v).$ Now $c\u + d\v$ is precisely
+\end{bmatrix}$
+By definition, the sample variance of $c\textbf u + d\textbf v$ is $\dfrac{1}{N-1}(c\textbf u + d\textbf v) \cdot (c\textbf u + d \textbf v).$ Now $c\textbf u + d \textbf v$ is precisely
 \[
 \begin{bmatrix}
     c & d
