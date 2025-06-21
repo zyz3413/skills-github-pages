@@ -23,7 +23,7 @@ S = Q \Lambda Q^{-1}
 \]
 where $Q$ is orthogonal and $\Lambda$ is diagonal:
 \[
-Q = [\u_1 \ \u_2] \quad \Lambda = \begin{bmatrix}
+Q = [\textbf u_1 \ \textbf u_2] \quad \Lambda = \begin{bmatrix}
     \lambda_1 & \ \\
     \ & \lambda_2
 \end{bmatrix}
