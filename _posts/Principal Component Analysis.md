@@ -18,9 +18,7 @@ $$
 \end{bmatrix}.
 $$
 The matrix in the middle is a symmetric matrix; we'll call it $S$. It has a diagonalization
-$$
-S = Q \Lambda Q^{-1}
-$$
+$$S = Q \Lambda Q^{-1} $$
 where $Q$ is orthogonal and $\Lambda$ is diagonal:
 $$
 Q = [\textbf u_1 \ \textbf u_2] \quad \Lambda = \begin{bmatrix}
