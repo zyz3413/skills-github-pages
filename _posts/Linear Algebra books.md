@@ -1,4 +1,6 @@
-Lay, Linear Algebra
+There really is no shortage of linear algebra textbooks. Linear algebra is a prerequisite for many more advanced courses. I would say that the main thing to get out of such a course is how matrices work. Familiarity with matrix operations and matrix algebra, and familiarity with the main concepts. For a first course, the main concepts are: solving linear systems, linear combinations and span, linear independence, linear mappings and linearity, vector space, basis, dimension, rank, eigenvalues and eigenvectors, orthogonality, and orthogonal projection. On a more advanced level, quadratic forms, the spectral theorem, diagonalization, change of coordinates, and the matrix of a transformation with respect to different bases.
+
+Lay, Linear Algebra is a solid textbook. 
 
 Strang, Linear Algebra and Its Applications. I think this book is out of print, but I prefer it to his Introduction to Linear Algebra.
 
