@@ -2,8 +2,7 @@ In this section, we give a brief overview of principal component analysis.
 
 Recall that the general quadratic form in two variables
 $$ax_1 + bx_1 x_2 + c x_2^2$$
-is equal to
-$\begin{bmatrix}
+is equal to $\begin{bmatrix}
     x_1 & x_2
 \end{bmatrix} \begin{bmatrix}
     a & b/2 \\
