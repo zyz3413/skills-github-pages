@@ -41,7 +41,7 @@ $B = \begin{bmatrix}
 \end{bmatrix}$
 Suppose that $\textbf u$ and $\textbf v$ are vectors in $\textbf R^N$ with mean $0$. We define the sample covariance of $\textbf u$ and $\textbf v$ to be
 $\dfrac{1}{N-1} \textbf u \cdot \textbf v.$
-Notice that the sample covariance of $\u$ and $\u$ is just the sample variance of $\textbf u$.
+Notice that the sample covariance of $\textbf u$ and $\textbf u$ is just the sample variance of $\textbf u$.
 
 We define the \textbf{sample covariance matrix} to be 
 $S = [s_{ij}]=[\text{Cov}(\textbf u_i,\textbf u_j)].$
