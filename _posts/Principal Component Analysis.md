@@ -19,9 +19,9 @@ $$Q = [\textbf u_1 \ \textbf u_2] \quad \Lambda = \begin{bmatrix}
     \lambda_1 & \ \\
     \ & \lambda_2
 \end{bmatrix}$$
-with $\textbf u_1,\textbf u_2$ orthogonal unit vectors. Thus, $\u_1$ and $\u_2$ are orthonormal eigenvectors of $A$, with eigenvalues $\lambda_1$ and $\lambda_2$. Furthermore, the $\lambda_i$'s are real. We arrange the $\lambda_i$'s so that $\lambda_1 \ge \lambda_2$.
+with $\textbf u_1,\textbf u_2$ orthogonal unit vectors. Thus, $\textbf u_1$ and $\textbf u_2$ are orthonormal eigenvectors of $A$, with eigenvalues $\lambda_1$ and $\lambda_2$. Furthermore, the $\lambda_i$'s are real. We arrange the $\lambda_i$'s so that $\lambda_1 \ge \lambda_2$.
 
-Now we use $\u_1$ and $\u_2$ to create new axes. In terms of the variables $u_1$ and $u_2$, the quadratic form $z(x_1,x_2) = ax_1^2 + bx_1 x_2 + c x_2^2$
+Now we use $\textbf u_1$ and $\textbf u_2$ to create new axes. In terms of the variables $u_1$ and $u_2$, the quadratic form $z(x_1,x_2) = ax_1^2 + bx_1 x_2 + c x_2^2$
 is equal to $z(x_1,x_2) = \lambda_1 u_1^2 + \lambda_2 u_2^2.$ Then $\lambda_1$ is the largest value of $z$ on the unit circle and $\lambda_2$ is the least value of $z$ on the unit circle.
 
 We will apply these facts to a data set. Suppose there are six people, and two quantities, Quantity 1 and Quantity 2, are measured. We get the following matrix of observations
