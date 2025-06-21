@@ -126,7 +126,7 @@ We have learned about lines of best fit using least squares. Principal component
 Now suppose that $\u$ is a unit vector. Then $\sum_{i=1}^N (\textbf{b}_i \cdot \u)^2$ is the sum of the squares of the lengths of the projections of the $\textbf{b}_i$ on the line spanned by $\u$.
 
 Notice that
-$||\textbf{b}_i||^2 = (\textbf{b}_i \cdot \u)^2 + (\textbf{b}_i-\textbf{b}_i \cdot \u)^2$
+$||\textbf{b}_i||^2 = (\textbf{b}_i \cdot \textbf u)^2 + (\textbf{b}_i-\textbf{b}_i \cdot \textbf u)^2$
 expresses the square of the magnitude of $\textbf{b}_i$ as the square of the length of the projection of $\textbf{b}_i$ onto $\u$ and the square of the distance from $\textbf{b}_i$ to the line spanned by $\u$. Therefore,
 $\sum_{i=1}^N ||\textbf{b}_i||^2 = \sum_{i=1}^N (\textbf{b}_i \cdot \u)^2 + \sum_{i=1}^N \text{dist}(\textbf{b}_i,\ell_\u)^2.$
 Since the left side is a fixed constant (because the $\textbf{b}_i$'s are given, we see that maximizing $\sum_{i=1}^N (\textbf{b}_i \cdot \u)^2$ is equivalent to minimizing $\sum_{i=1}^N \text{dist}(\textbf{b}_i,\ell_\u)^2$. But maximizing $\sum_{i=1}^N (\textbf{b}_i \cdot \u)^2$ is equivalent to maximizing $\u^T S\u$! We have seen that the $\u$ that does this is the first principal component. Therefore, the line $t \u$ is the best approximation to the data, in the sense that the sum of the squares of the \textit{orthogonal} distances to the line is minimized. For this reason, principal component analysis is equivalent to what is termed \textit{orthogonal regression}.
