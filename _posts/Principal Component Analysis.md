@@ -35,16 +35,12 @@ $m = \dfrac{1}{6}(19+22+6+3+2+20)=12.$
 In row 2, $N=6$ and $m=10$.
 
 We form the matrix $B$ by subtracting the row means from each row:
-\[
-B = \begin{bmatrix}
+$B = \begin{bmatrix}
     7 & 10 & -6 & -9 & -10 & 8 \\
     2 & -4 & -1 & 5 & 3 & -5
-\end{bmatrix}
-\]
-Suppose that $\u$ and $\v$ are vectors in $\R^N$ with mean $0$. We define the \textbf{sample covariance} of $\textbf u$ and $\textbf v$ to be
-\[
-\dfrac{1}{N-1} \u \cdot \v.
-\]
+\end{bmatrix}$
+Suppose that $\textbf u$ and $\textbf v$ are vectors in $\textbf R^N$ with mean $0$. We define the sample covariance of $\textbf u$ and $\textbf v$ to be
+$\dfrac{1}{N-1} \textbf u \cdot \textbf v.$
 Notice that the sample covariance of $\u$ and $\u$ is just the sample variance of $\textbf u$.
 
 We define the \textbf{sample covariance matrix} to be 
