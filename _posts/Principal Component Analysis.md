@@ -98,19 +98,15 @@ The \textbf{total variance} is just the sample variance of $\u$ plus the sample 
     \item The percentage of the total variance captured by the direction $\u_i$ is $\dfrac{\lambda_i}{\sum_{j=1}^N \lambda_j}$.
 \end{itemize}
 In this scenario, we get
-\[
-\u_1 = \begin{bmatrix}
+$\u_1 = \begin{bmatrix}
     .95 \\
     -.32
-\end{bmatrix}, \quad \lambda_1=95.2
-\]
+\end{bmatrix}, \quad \lambda_1=95.2$
 and
-\[
-\u_2 = \begin{bmatrix}
+$\u_2 = \begin{bmatrix}
     .32 \\
     .95
-\end{bmatrix}, \quad \lambda_2 = 6.8.
-\]
+\end{bmatrix}, \quad \lambda_2 = 6.8.$
 The total variance in the data is $95.2+6.8=102$. (Check that this is, in fact, the sum of the diagonal entries of $S$!)
 
 The direction $\u_1$ captures $\dfrac{95.2}{102} \approx 93.3\%$ of the total variance. The direction $\u_2$ captures approximately $6.7\%$ of the total variance.
