@@ -52,16 +52,14 @@ B = \begin{bmatrix}
     2 & -4 & -1 & 5 & 3 & -5
 \end{bmatrix}
 \]
-Suppose that $\u$ and $\v$ are vectors in $\R^N$ with mean $0$. We define the \textbf{sample covariance} of $\u$ and $\v$ to be
+Suppose that $\u$ and $\v$ are vectors in $\R^N$ with mean $0$. We define the \textbf{sample covariance} of $\textbf u$ and $\textbf v$ to be
 \[
 \dfrac{1}{N-1} \u \cdot \v.
 \]
-Notice that the sample covariance of $\u$ and $\u$ is just the sample variance of $\u$.
+Notice that the sample covariance of $\u$ and $\u$ is just the sample variance of $\textbf u$.
 
 We define the \textbf{sample covariance matrix} to be 
-\[
-S = [s_{ij}]=[\text{Cov}(\u_i,\u_j)].
-\]
+$S = [s_{ij}]=[\text{Cov}(\textbf u_i,\textbf u_j)].$
 Then
 \[
 S = \dfrac{1}{N-1}BB^T.
@@ -73,7 +71,7 @@ S = \begin{bmatrix}
     -27 & 16
 \end{bmatrix}
 \]
-By definition, the sample variance of $c\u + d\v$ is $\dfrac{1}{N-1}(c\u + d\v) \cdot (c\u + d \v).$ Now $c\u + d\v$ is precisely
+By definition, the sample variance of $c\textbf u + d\textbf v$ is $\dfrac{1}{N-1}(c\textbf u + d\textbf v) \cdot (c\textbf u + d \textbf v).$ Now $c\u + d\v$ is precisely
 \[
 \begin{bmatrix}
     c & d
