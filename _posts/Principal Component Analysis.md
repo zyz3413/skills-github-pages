@@ -1,11 +1,11 @@
 In this section, we give a brief overview of principal component analysis. 
 
 Recall that the general quadratic form in two variables
-\[
+$$
 ax_1 + bx_1 x_2 + c x_2^2
-\]
+$$
 is equal to
-\[
+$$
 \begin{bmatrix}
     x_1 & x_2
 \end{bmatrix} \begin{bmatrix}
@@ -16,19 +16,19 @@ is equal to
     x_1 \\
     x_2
 \end{bmatrix}.
-\]
+$$
 The matrix in the middle is a symmetric matrix; we'll call it $S$. It has a diagonalization
-\[
+$$
 S = Q \Lambda Q^{-1}
-\]
+$$
 where $Q$ is orthogonal and $\Lambda$ is diagonal:
-\[
+$$
 Q = [\textbf u_1 \ \textbf u_2] \quad \Lambda = \begin{bmatrix}
     \lambda_1 & \ \\
     \ & \lambda_2
 \end{bmatrix}
-\]
-with $\u_1,\u_2$ orthogonal unit vectors. Thus, $\u_1$ and $\u_2$ are orthonormal eigenvectors of $A$, with eigenvalues $\lambda_1$ and $\lambda_2$. Furthermore, the $\lambda_i$'s are real. We arrange the $\lambda_i$'s so that $\lambda_1 \ge \lambda_2$.
+$$
+with $\textbf u_1,\textbf u_2$ orthogonal unit vectors. Thus, $\u_1$ and $\u_2$ are orthonormal eigenvectors of $A$, with eigenvalues $\lambda_1$ and $\lambda_2$. Furthermore, the $\lambda_i$'s are real. We arrange the $\lambda_i$'s so that $\lambda_1 \ge \lambda_2$.
 
 Now we use $\u_1$ and $\u_2$ to create new axes. In terms of the variables $u_1$ and $u_2$, the quadratic form
 \[
