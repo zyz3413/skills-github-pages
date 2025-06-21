@@ -5,11 +5,11 @@ $ax_1 + bx_1 x_2 + c x_2^2$
 is equal to $\begin{bmatrix}
     x_1 & x_2
 \end{bmatrix} \begin{bmatrix}
-    a & b/2 \\
+    a & b/2 \\\
     b/2 & c
 \end{bmatrix}
 \begin{bmatrix}
-    x_1 \\
+    x_1 \\\
     x_2
 \end{bmatrix}.$
 The matrix in the middle is a symmetric matrix; we'll call it $S$. It has a diagonalization
