@@ -4,9 +4,11 @@ Lay, Linear Algebra is a solid textbook.
 
 Strang, Linear Algebra and Its Applications. I think this book is out of print, but I prefer it to his Introduction to Linear Algebra.
 
-For a more theoretical book, Linear Algebra by Friedberg, Insel, and Spence, or Linear Algebra Done Wrong (online manuscript, unpublished) by Treil.
-
-Linear Algebra by Bretscher is a good choice for an honors textbook.
+Books for an Honors, more theory-based course:
+- Linear Algebra by Friedberg, Insel, and Spence
+- Linear Algebra Done Wrong (online manuscript, unpublished) by Treil.
+- Linear Algebra by Bretscher is a good choice for an honors textbook.
+- Linear Algebra by Meckes and Meckes
 
 Matrices and Linear Algebra by Schneider and Barker is old but good. It would be tough going for independent study. Their notation is not typical.
 
