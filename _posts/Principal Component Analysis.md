@@ -3,7 +3,7 @@ In this section, we give a brief overview of principal component analysis.
 Recall that the general quadratic form in two variables
 $$ax_1 + bx_1 x_2 + c x_2^2$$
 is equal to
-$$\begin{bmatrix}
+$\begin{bmatrix}
     x_1 & x_2
 \end{bmatrix} \begin{bmatrix}
     a & b/2 \\
@@ -12,7 +12,7 @@ $$\begin{bmatrix}
 \begin{bmatrix}
     x_1 \\
     x_2
-\end{bmatrix}.$$
+\end{bmatrix}.$
 The matrix in the middle is a symmetric matrix; we'll call it $S$. It has a diagonalization
 $$S = Q \Lambda Q^{-1} $$
 where $Q$ is orthogonal and $\Lambda$ is diagonal:
