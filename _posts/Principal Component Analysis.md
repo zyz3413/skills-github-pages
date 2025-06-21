@@ -57,7 +57,7 @@ By definition, the sample variance of $c\textbf u + d\textbf v$ is $\dfrac{1}{N-
     c & d
 \end{bmatrix} B,
 \]
-so the sample variance of $c\u + d\v$ is
+so the sample variance of $c\textbf u + d \textbf v$ is
 \[
 \dfrac{1}{N-1}[c \ d] B B^T \begin{bmatrix}
     c \\
