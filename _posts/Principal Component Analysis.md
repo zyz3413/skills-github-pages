@@ -88,17 +88,17 @@ so the sample variance of $c\u + d\v$ is
 \]
 a quadratic form! Let $\lambda_1$ and $\lambda_2$ be the eigenvalues of $S$, with $\lambda_1 \ge \lambda_2$. Suppose we restrict $(c,d)$ to be a unit vector. By what we have seen:
 \begin{itemize}
-    \item The largest sample variance is $\lambda_1$, occurring at $\u_1$;
-    \item The least sample variance is $\lambda_2$, occurring at $\u_2$.
+    \item The largest sample variance is $\lambda_1$, occurring at $\textbf u_1$;
+    \item The least sample variance is $\lambda_2$, occurring at $\textbf u_2$.
 \end{itemize}
-The \textbf{total variance} is just the sample variance of $\u$ plus the sample variance of $\v$. This is the sum of the diagonal entries of the sample covariance matrix. In other words, it's the \textit{trace} of the sample covariance matrix. By the general theory, this is the sum of the eigenvalues. The total variance of the data is $\lambda_1 + \lambda_2$. We can phrase what we've found as follows:
+The \textbf{total variance} is just the sample variance of $\u$ plus the sample variance of $\textbf v$. This is the sum of the diagonal entries of the sample covariance matrix. In other words, it's the \textit{trace} of the sample covariance matrix. By the general theory, this is the sum of the eigenvalues. The total variance of the data is $\lambda_1 + \lambda_2$. We can phrase what we've found as follows:
 \begin{itemize}
-    \item Out of all possible unit vectors, the direction $\u_1$ captures the largest amount of variance in the data.
-    \item The direction $\u_2$ captures the next largest amount of variance in the data in the possible directions orthogonal to $\u_1$.
-    \item The percentage of the total variance captured by the direction $\u_i$ is $\dfrac{\lambda_i}{\sum_{j=1}^N \lambda_j}$.
+    \item Out of all possible unit vectors, the direction $\textbf u_1$ captures the largest amount of variance in the data.
+    \item The direction $\textbf u_2$ captures the next largest amount of variance in the data in the possible directions orthogonal to $\textbf u_1$.
+    \item The percentage of the total variance captured by the direction $\textbf u_i$ is $\dfrac{\lambda_i}{\sum_{j=1}^N \lambda_j}$.
 \end{itemize}
 In this scenario, we get
-$\u_1 = \begin{bmatrix}
+$\textbf u_1 = \begin{bmatrix}
     .95 \\
     -.32
 \end{bmatrix}, \quad \lambda_1=95.2$
