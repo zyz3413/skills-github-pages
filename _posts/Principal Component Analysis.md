@@ -21,28 +21,17 @@ $Q = [\textbf u_1 \ \textbf u_2] \quad \Lambda = \begin{bmatrix}
 \end{bmatrix}$
 with $\textbf u_1,\textbf u_2$ orthogonal unit vectors. Thus, $\textbf u_1$ and $\textbf u_2$ are orthonormal eigenvectors of $A$, with eigenvalues $\lambda_1$ and $\lambda_2$. Furthermore, the $\lambda_i$'s are real. We arrange the $\lambda_i$'s so that $\lambda_1 \ge \lambda_2$.
 
-Now we use $\textbf u_1$ and $\textbf u_2$ to create new axes. In terms of the variables $u_1$ and $u_2$, the quadratic form $z(x_1,x_2) = ax_1^2 + bx_1 x_2 + c x_2^2$
-is equal to $z(x_1,x_2) = \lambda_1 u_1^2 + \lambda_2 u_2^2.$ Then $\lambda_1$ is the largest value of $z$ on the unit circle and $\lambda_2$ is the least value of $z$ on the unit circle.
+Now we use $\textbf u_1$ and $\textbf u_2$ to create new axes. In terms of the variables $u_1$ and $u_2$, the quadratic form $z(x_1,x_2) = ax_1^2 + bx_1 x_2 + c x_2^2$ is equal to $z(x_1,x_2) = \lambda_1 u_1^2 + \lambda_2 u_2^2.$ Then $\lambda_1$ is the largest value of $z$ on the unit circle and $\lambda_2$ is the least value of $z$ on the unit circle.
 
-We will apply these facts to a data set. Suppose there are six people, and two quantities, Quantity 1 and Quantity 2, are measured. We get the following matrix of observations
-\[
-A = \begin{bmatrix}
+We will apply these facts to a data set. Suppose there are six people, and two quantities, Quantity 1 and Quantity 2, are measured. We get the following matrix of observations $A = \begin{bmatrix}
     19 & 22 & 6 & 3 & 2 & 20 \\
-    12 & 6 & 9 & 15 & 13 & 5
-\end{bmatrix}
-\]
+    12 & 6 & 9 & 15 & 13 & 5 \end{bmatrix}$
 Given a vector $\langle t_1,...,t_N \rangle$, we define its \textbf{sample mean} to be 
-\[
-m = \dfrac{1}{N}(t_1+ \dots + t_N)
-\]
+$m = \dfrac{1}{N}(t_1+ \dots + t_N)$
 and the \textbf{sample variance} to be 
-\[
-\dfrac{1}{N-1}\sum_{i=1}^N (t_i-m)^2 = \dfrac{1}{N} \langle t_1-m,...,t_N-m \rangle \cdot \langle t_1-m,...,t_N-m \rangle.
-\]
+$\dfrac{1}{N-1}\sum_{i=1}^N (t_i-m)^2 = \dfrac{1}{N} \langle t_1-m,...,t_N-m \rangle \cdot \langle t_1-m,...,t_N-m \rangle.$
 For example, in row 1, $N=6$, and
-\[
-m = \dfrac{1}{6}(19+22+6+3+2+20)=12.
-\]
+$m = \dfrac{1}{6}(19+22+6+3+2+20)=12.$
 In row 2, $N=6$ and $m=10$.
 
 We form the matrix $B$ by subtracting the row means from each row:
