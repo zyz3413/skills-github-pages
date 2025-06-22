@@ -1,9 +1,9 @@
-At least in the US there are two kinds of multivariable calculus courses. One is a course that does not require linear algebra. This type of course only does things for R^2 and R^3 and is largely computational. Some books for this are:
+At least in the US there are two kinds of multivariable calculus courses. One is a course that does not require linear algebra. This type of course only does things for R^2 and R^3 and is largely computational. One is more theoretical and often states theorems in R^n. Some books for the first type of course are:
 
 - Calculus by Stewart. Overall, this is a solid book, and the last several chapters (starting with the chapter on vectors until the end) gives a standard treatment of multivariable calculus. 
 - Calculus by Briggs and Cochran. Similar to Stewart. These two books give great pictures.
 
-There are other books that state theorems for R^n and may include proofs. Some books for this are:
+These books state theorems for R^n and may include proofs:
 
 - Vector Calculus by Marsden and Tromba. This is my personal preference.
 - Vector Calculus by Colley. Some people like this book, but I find it pretty confusing, and I really dislike the graphics. The pictures in Stewart and Briggs-Cochran are much better.
