@@ -174,9 +174,15 @@ Section 4.1 Exponential Functions
 
 Section 4.2 Graphs of Exponential Functions
 
+Transformations of Exponential Graphs
+
 Section 4.3 Logarithmic Functions
 
 Section 4.4 Logarithmic Properties
+
+Log properties in solving equations
+
+p.293 "In this case, our answer looks fine." They should substitute $x=503$ into the original equation and check that it is correct! If a student just wrote, "our answer looks fine," they would not get full credit!
 
 Section 4.5 Graphs of Logarithmic Functions
 
