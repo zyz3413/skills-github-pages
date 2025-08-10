@@ -62,9 +62,19 @@ Decomposing Functions
 
 Section 1.5 Transformations of Functions
 
+p.77 In their definition of horizontal stretch or compression, they define $g(x)=f(kx)$ to be a horizontal stretch or compression of $f(x)$ if $k$ is any constant. But then they say that if $k<0$, there will be a combination of a horizontal stretch or compression with a horizontal reflection.
+
+p.79 There is no explanation of why $f(b(x+h))$ means to first horizontally stretch by $1/b$, then horizontally shift by $h$.
+
+Section 1.6 Inverse Functions
+
+p.96 Since $f^{-1}$ is defined to be a function if it exists, it would be more precise to say that each output of $f$ must correspond to exactly one input of $f$ in order for $f^{-1}$ to exist.
+
 Chapter 2: Linear Functions
 
 Section 2.1 Linear Functions
+
+p.102 They don't actually prove that the rate of change of a linear function is constant, or that it is equal to $m$.
 
 p. 103, p.104 "$m$ is the constant rate of change of the function (also called slope)." Is that a definition? No, it's a theorem! So we shouldn't say that the constant rate of change is "also called the slope." It is a mathematical fact that the rate of change of a linear function is the same as the slope of the graph of the function.
 
@@ -78,7 +88,7 @@ p.120 The definition of perpendicular lines is not good. They say that the defin
 
 Intersections of Lines
 
-"The graphs of two lines will intersect if they are not parallel." This is true, but why? The authors don't say. This follows from the definition if we *define* parallel lines to be lines that don't intersect. 
+p. 122 The graphs of two lines will intersect if they are not parallel." This is true, but why? The authors don't say. This follows from the definition if we *define* parallel lines to be lines that don't intersect. 
 
 Section 2.3 Modeling with Linear Functions
 
@@ -134,6 +144,8 @@ p. 181 Example 1. Suddenly the horizontal intercepts are numbers, not points.
 
 Graphical Behavior at Intercepts
 
+p.183 There is no precise definition of multiplicity given.
+
 Solving Polynomial Inequalities
 
 Writing Equations using Intercepts
@@ -166,6 +178,14 @@ p.214 Same issue with their "Complex Factorization Theorem." They make it seem a
 
 Section 3.7 Rational Functions
 
+Finding Asymptotes and Intercepts
+
+Intercepts
+
+Graphical Behavior at Intercepts and Vertical Asymptotes
+
+Oblique Asymptotes
+
 Section 3.8 Inverses and Radical Functions
 
 Chapter 4: Exponential and Logarithmic Functions
@@ -178,16 +198,32 @@ Transformations of Exponential Graphs
 
 Section 4.3 Logarithmic Functions
 
+p.277 They should say in the definition of logarithm that $b>0$ and $b \ne 1$.
+
+p.282 Example 11 should be an approximately equals sign
+
 Section 4.4 Logarithmic Properties
 
 Log properties in solving equations
 
 p.293 "In this case, our answer looks fine." They should substitute $x=503$ into the original equation and check that it is correct! If a student just wrote, "our answer looks fine," they would not get full credit!
 
+p.293 Example 6. Same comment. "Checking this answer in the original equation, we can verify there are no domain issues, and this answer is correct."
+
 Section 4.5 Graphs of Logarithmic Functions
+
+Transformations of the Logarithmic Function
 
 Section 4.6 Exponential and Logarithmic Models
 
+Newton's Law of Cooling
+
+Logarithmic Scales
+
+Earthquakes
+
 Section 4.7 Fitting Exponentials to Data
+
+Fitting Exponentials to Data
 
 
