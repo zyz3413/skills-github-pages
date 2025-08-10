@@ -56,5 +56,38 @@ Short run Behavior: intercepts
 
 p.174 In deriving the quadratic formula, the authors make the familiar gap of taking square roots of both sides, without explaining what happens if $b^2-4ac<0$. They should say that the expression on the botto of the page shows that if $b^2-4ac<0$, the equation has no real solutions. Then if $b^2-4ac \ge 0$, we are allowed to take square roots.
 
+Section 3.3 Graphs of Polynomial Functions
+
+Short run Behavior: Intercepts
+
+p. 181 Example 1. Suddenly the horizontal intercepts are numbers, not points.
+
+Estimating Extrema
+
+Section 3.4 Factor Theorem and Remainder Theorem
+
+Section 3.5 Real Zeros of Polynomials
+
+Section 3.6 Complex Zeros
+
+Section 3.7 Rational Functions
+
+Section 3.8 Inverses and Radical Functions
+
+Chapter 4: Exponential and Logarithmic Functions
+
+Section 4.1 Exponential Functions
+
+Section 4.2 Graphs of Exponential Functions
+
+Section 4.3 Logarithmic Functions
+
+Section 4.4 Logarithmic Properties
+
+Section 4.5 Graphs of Logarithmic Functions
+
+Section 4.6 Exponential and Logarithmic Models
+
+Section 4.7 Fitting Exponentials to Data
 
 
