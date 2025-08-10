@@ -48,5 +48,13 @@ p. 164 Short Run Behavior
 
 There is a sloppiness when it comes to intercepts. They write, "Horizontal intercepts are also called zeros, or roots of the function." So are horizontal intercepts points or are they numbers? In example 6 below, the intercepts are points.
 
+Section 3.2 Quadratic Functions
+
+Short run Behavior: Vertex
+
+Short run Behavior: intercepts
+
+p.174 In deriving the quadratic formula, the authors make the familiar gap of taking square roots of both sides, without explaining what happens if $b^2-4ac<0$. They should say that the expression on the botto of the page shows that if $b^2-4ac<0$, the equation has no real solutions. Then if $b^2-4ac \ge 0$, we are allowed to take square roots.
+
 
 
