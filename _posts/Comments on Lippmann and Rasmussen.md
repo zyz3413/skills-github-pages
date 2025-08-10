@@ -19,3 +19,34 @@ Section 2.2 Graphs of Linear Functions
 p.120 
 
 The definition of perpendicular lines is not good. They say that the definition is that the lines are perpendicular if $m_1 m_2=-1$. What if you have a horizontal and a vertical line? Also, it is not a definition because in the preceding paragraph they write, "...one other interesting possibility is that the lines are perpendicular, which means the lines form a right angle... where they meet." And they say that "the slopes when multiplied together will equal $-1$" with no justification. Why is it true? The authors don't say.
+
+Intersections of Lines
+
+"The graphs of two lines will intersect if they are not parallel." This is true, but why? The authors don't say. This follows from the definition if we *define* parallel lines to be lines that don't intersect. 
+
+Section 2.5 Absolute Value Functions
+
+Important Features
+
+p.150 Example 3. There is not enough explanation for how they got $f(x)=2|x-3|-2$.
+
+Solving Absolute Value Equations
+
+Solving Absolute Value Inequalities
+
+They go about solving inequalities in a different way. They don't rewrite it as a compound inequality without absolute value signs. But their method works.
+
+Chapter 3: Polynomial and Rational Functions
+
+Section 3.1 Power Functions and Polynomial Functions
+
+p.159 definition of a power function. They say that a power function is a function that can be represented in the form $f(x)=x^p$ where $p$ is "a number." Is $x^{-2/3}$ a power function? The domain should be specified.
+
+Polynomials
+
+p. 164 Short Run Behavior
+
+There is a sloppiness when it comes to intercepts. They write, "Horizontal intercepts are also called zeros, or roots of the function." So are horizontal intercepts points or are they numbers? In example 6 below, the intercepts are points.
+
+
+
