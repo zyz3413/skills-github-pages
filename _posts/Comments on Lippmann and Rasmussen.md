@@ -1,5 +1,30 @@
 Here are some comments on the Precalculus book by Lippmann and Rasmussen. 
 
+Chapter 1: Functions
+
+Section 1.1 Functions and Function Notation
+
+Tables as Functions
+
+p.4 Not every function can be represented by a table. This point should probably be made clearer.
+
+Solving and Evaluating Functions
+
+p.5 "Solving a function could produce more than one solution, since different inputs can produce the same output." This could use more explanation. The word "solution" has more than one meaning. In the context of solving equations, we are given an output and asked to find *all* inputs that correspond to that output. Each possible input is called a *solution*. This is *not* the same as ``the solution'' as in, "the answer to the problem." The authors never say what they mean by a "solution."
+
+Graphs as Functions
+
+p.6 There is a lack of precision regarding graphs and functions of graphs. At first, the authors clearly make a distinction between a graph and a function: "Oftentimes a graph of a relationship can be used to define a function." "Which of these graphs defines a function $y=f(x)$?" But a few lines later, they write, "Graph 1 is not a one-to-one function." So is a graph a function or not? 
+
+p.7 The statement of the horizontal line test is ambiguous. "Draw horizontal lines through the graph. If any horizontal line crosses the graph more than once, then the graph does not define a one-to-one function." What they mean is that if there is *any* horizontal line that crosses the graph more than once, the function is not one-to-one. They don't mean just the lines that you drew. Obviously it's not possible to draw every single line. So then what is the point of drawing horizontal lines through the graph? 
+
+Formulas as Functions
+
+
+Section 1.2 Domain and Range
+
+Section 1.3 Rates of Change and Behavior of Graphs
+
 1.3 There is a good explanation of average rate of change.
 
 p.37 Is there an explanation of what the triangle means? 
@@ -54,7 +79,7 @@ Short run Behavior: Vertex
 
 Short run Behavior: intercepts
 
-p.174 In deriving the quadratic formula, the authors make the familiar gap of taking square roots of both sides, without explaining what happens if $b^2-4ac<0$. They should say that the expression on the botto of the page shows that if $b^2-4ac<0$, the equation has no real solutions. Then if $b^2-4ac \ge 0$, we are allowed to take square roots.
+p.174 In deriving the quadratic formula, the authors make the familiar gap of taking square roots of both sides, without explaining what happens if $b^2-4ac<0$. They should say that the expression on the bottom of the page shows that if $b^2-4ac<0$, the equation has no real solutions. Then if $b^2-4ac \ge 0$, we are allowed to take square roots.
 
 Section 3.3 Graphs of Polynomial Functions
 
