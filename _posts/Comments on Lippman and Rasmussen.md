@@ -160,7 +160,7 @@ Complex Zeros of Polynomials
 
 p.213 "First, the zeros ... are complex conjugates. This will always be the case when we find non-real zeros to a quadratic function with real coefficients." Why? There is no explanation given.
 
-p.213 "A non-constant polynomial f with real or complex coefficients will have at least one real or complex zero." Are real numbers complex numbers or not? They should just say, "A nonconstant polynomial with complex coefficients will have at least one complex zero." 
+p.213 "A non-constant polynomial f with real or complex coefficients will have at least one real or complex zero." Are real numbers complex numbers or not? They should just say, "A nonconstant polynomial with complex coefficients has at least one complex zero." 
 
 p.214 Same issue with their "Complex Factorization Theorem." They make it seem as though real numbers are not complex numbers. 
 
